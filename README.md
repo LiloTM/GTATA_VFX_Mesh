@@ -1,5 +1,7 @@
 # GTATA_VFX_Mesh
 
+A simple project made in Game Technology and Interactive Systems class. VFX Graphs and generated Meshs, as well as Shader Graphs are presented in a showcase-room.
+
 ## Teampartner
 Liz Kintzel - @ChaoticPan on GitHub
 
