@@ -1,7 +1,7 @@
 # GTATA_VFX_Mesh
 
 ## Teampartner
-Liz Kintzel - @chaoticPan on GitHub
+Liz Kintzel - @ChaoticPan on GitHub
 
 ## Overview of Personal Work
 
