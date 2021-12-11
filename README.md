@@ -1,6 +1,6 @@
 # GTATA_VFX_Mesh
 
-Overview of Personal Work
+##Overview of Personal Work
 ● VFX Shader Magic Ball
 ● VFX Shader Fireworks
 ● Shader Water
@@ -11,7 +11,7 @@ Overview of Personal Work
 ● Physics (Flower Ball)
 ● Comments in Code
 
-Sources
+##Sources
 https://www.youtube.com/watch?v=eJEpeUH1EMg
 https://de.mathworks.com/help/symbolic/fsurf.html
 https://activecalculus.org/multi/S-11-6-Parametric-Surfaces-Surface-Area.html
